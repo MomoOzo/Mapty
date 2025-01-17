@@ -15,4 +15,3 @@ const inputElevation = document.querySelector('.form__input--elevation');
 .
 .
 .
-.
