@@ -5,6 +5,7 @@ Mapty is a fitness tracking application that allows users to log workouts such a
 ## Screen shot
 
 <img src="mapty.png" alt="screenShot"/>
+
 ## Features
 
 - **Track Workouts**: Add running or cycling workouts with details such as distance, duration, and pace.
